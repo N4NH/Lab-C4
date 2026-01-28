@@ -83,3 +83,16 @@ Decompress On Load + PCM giúp giảm độ trễ và giữ chất lượng tố
 ---
 
 
+## Mô tả kết quả và nhận xét sau khi hoàn thành Lab Audio & Video
+
+### Sau khi hoàn thành lab chương 4, em đã thực hiện được đầy đủ các yêu cầu về hệ thống Audio và Video trong Unity. Ở phần Audio, em đã tạo được AudioSource phát âm thanh theo phím điều khiển, phân biệt rõ âm thanh 2D và 3D thông qua Spatial Blend, đồng thời điều khiển âm thanh toàn cục bằng chức năng mute và pause. Ngoài ra, em cũng import và tối ưu nhiều AudioClip bằng cách chọn Load Type và Compression phù hợp cho nhạc nền (BGM) và hiệu ứng âm thanh (SFX).
+
+### Ở phần Video, em đã import video mp4 và sử dụng VideoPlayer để phát video trong scene. Video được hiển thị đúng qua RenderTexture và RawImage trên UI cũng như trên object 3D. Em cũng đã áp dụng sự kiện prepareCompleted và loopPointReached để xử lý khi video kết thúc, hiển thị UI hoặc chuyển scene tự động. Cuối cùng, mini project intro cutscene hoạt động đúng với video intro, nhạc nền, nút skip và tự chuyển vào gameplay.
+
+### Nhận xét chung, lab này giúp em hiểu rõ hơn cách Unity quản lý âm thanh và video trong game, đồng thời thấy được tầm quan trọng của việc tối ưu tài nguyên để đảm bảo hiệu năng. Đây là kiến thức nền tảng cần thiết để xây dựng trải nghiệm game sinh động và chuyên nghiệp hơn.
+
+
+
+# File gg Driver chứa Video
+## https://drive.google.com/drive/folders/1O4aEYlTgg3cgEO_gfurC-NATHJMLJuin?usp=sharing
+
